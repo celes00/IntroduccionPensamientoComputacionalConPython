@@ -13,10 +13,8 @@ while contador_externo < 5:
             print(contador_externo, contador_interno)
             contador_interno += 1
         contador_externo += 1
-        """ (hacemos que itere por fuera del bloque) """
-        contador_interno = 0 
-        """ (reseteamos) """
-         """
+        """ """ (hacemos que itere por fuera del bloque) """
+        # contador_interno = 0   """ (reseteamos) """ """ """
          
 contador_externo = 0
 contador_interno = 0
